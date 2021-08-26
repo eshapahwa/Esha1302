@@ -3,7 +3,7 @@
 
 <!-- **Esha1302/Esha1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Crowd Behaviour Analysis 🚶‍♂️🚶‍♂️🚶‍♂️
 - 🌱 I’m currently learning GANs 🌃
