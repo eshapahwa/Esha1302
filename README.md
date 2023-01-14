@@ -17,5 +17,3 @@
 <!-- - 😄 Pronouns: ... -->
 [1]: https://www.linkedin.com/in/esha-pahwa-79927618a/
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Esha1302&theme=radical&show_icons=true&count_private=true)
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Esha1302&layout=compact) -->
